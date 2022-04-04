@@ -4,6 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently internshipping on Uzinfocom
+- 🔭 I’m currently job on Uzinfocom. Junior web developer
 - 🌱 I’m currently learning TUIT
 - 💬 Ask me about "Learning Python"
